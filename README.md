@@ -16,6 +16,7 @@ In this we use gp2040-ce Firmware so for latest version go to https://gp2040-ce.
 First place and solder all the part
 flast the firmware to pico 
 then add pico to pcb 
+To use web-based configuration aplication which can be started by holding HOME when plugging your controller into a PC or by holding HOME + LB + RB for five seconds while the controller is plugged in. Then access http://192.168.7.1 in a web browser to begin configuration.
 Play
 
 # why I made the project
