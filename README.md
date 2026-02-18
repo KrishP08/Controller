@@ -10,6 +10,17 @@ This is xbox layout controller that have hall effect joystick,hall effect trigge
 ![Case Back](Images/cad2.png)
 ![Case with pcb](Images/cad3.png)
 
+# Firmware
+In this we use gp2040-ce Firmware so for latest version go to https://gp2040-ce.info/ and select Pico w board firmware and download it 
+# How to use 
+First place and solder all the part
+flast the firmware to pico 
+then add pico to pcb 
+Play
+
+# why I made the project
+I want to try make i my own controller that i can play on any consol without lossing any consols features 
+
 # BOM
 
 | No | Product Name                             | Qty | Price / Piece (₹) |     Total (₹) | Total (USD) | Notes                 | Link                                                                                          |
